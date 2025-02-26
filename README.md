@@ -16,7 +16,7 @@ Record a short video of your story to display here on your README. You can do th
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[!![Thumbnail](image.png)](<video controls src="20250226-0704-17.7977237.mp4" title="Title"></video>)
+[![Thumbnail](image.png)](<video controls src="20250226-0704-17.7977237.mp4" title="Title"></video>)
 
 ## Story Description
 
